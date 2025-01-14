@@ -20,7 +20,7 @@ This Python application allows users to read text from a PDF file and convert it
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/PDF-Reader-With-TTS.git
+   git clone https://github.com/your-username/PDF_text_to_Audio_speech.git
 
 2. Navigate to the project directory:
     cd PDF-Reader-With-TTS
