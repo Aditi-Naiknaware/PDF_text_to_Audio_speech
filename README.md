@@ -23,18 +23,21 @@ This Python application allows users to read text from a PDF file and convert it
    git clone https://github.com/your-username/PDF_text_to_Audio_speech.git
 
 2. Navigate to the project directory:
+    ```bash
     cd PDF-Reader-With-TTS
 
 3. Install the required libraries:
+    ```bash
     pip install PyPDF2 pyttsx3
 
 ##How to Use:
 1. Run the script:
+    ```bash
     python pdf_reader_gui.py
 2. Select a PDF file by clicking the Browse button.
-    Enter the page range to read (e.g., 1-5).
-    Use the Read PDF button to start text-to-speech.
-   Control playback using Pause and Resume buttons.
+    1. Enter the page range to read (e.g., 1-5).
+    2. Use the Read PDF button to start text-to-speech.
+    3. Control playback using Pause and Resume buttons.
 
 ##Future Enhancements
 1. Add a progress bar to show reading status.
